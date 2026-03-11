@@ -23,7 +23,7 @@ The pipeline processes airline-related datasets such as **Airlines, Airports, Fl
 
 ## Pipeline Execution Flow
 
-![Pipeline Execution](Images/Execution pipeline.png)
+![Pipeline Execution](Images/Execution%20pipeline.png)
 
 The pipeline orchestrates ingestion, transformation, and loading processes using Azure Data Factory activities.
 
@@ -31,7 +31,7 @@ The pipeline orchestrates ingestion, transformation, and loading processes using
 
 ## Data Flow Architecture
 
-![Data Flow](Images/Data flow.png)
+![Data Flow](Images/Data%20flow.png)
 
 Data flows from source files through staging and transformation layers before being loaded into analytical tables.
 
